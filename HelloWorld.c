@@ -2,7 +2,7 @@
 
 // #include - comando pre-processado que diz ao compilador para incluir o conteúdo de um arquivo
 // <stdio.h> - o arquivo que vamos incluir
-// 		std - standard, io - input, output
+// 		std - standard, io - input, output, stdio - biblioteca padrão do C de entrada e saída de dados
 
 int main() // função main obrigatótia
 {
